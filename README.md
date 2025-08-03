@@ -47,7 +47,7 @@ Soy un desarrollador con experiencia en el ecosistema de Microsoft Power Platfor
 ## 📫 Cómo contactarme
 
 - 📧 [paulcardozo_01@outlook.com](mailto:paulcardozo_01@outlook.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jean-paul-cardozo-diaz)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jean-paul-cardozo-diaz-39337a217/)
 <!-- - 🌐 [Portafolio Web](https://tu-sitio.com) *(si tienes uno)* -->
 ---
 
