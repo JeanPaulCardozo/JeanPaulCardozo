@@ -1,4 +1,4 @@
-# 👋 Hola, soy Paul Diaz
+# 👋 Hola, soy Jean Paul
 
 ### 💻 Desarrollador de software | Apasionado por la tecnología | Enfocado en soluciones prácticas
 
